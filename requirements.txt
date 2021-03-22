@@ -1,0 +1,10 @@
+beautifulsoup4
+bs4
+certifi
+chardet
+colorama
+dnspython
+idna
+requests
+soupsieve
+urllib3

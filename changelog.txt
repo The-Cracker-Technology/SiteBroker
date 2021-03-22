@@ -1,0 +1,75 @@
+Version => 7.0.0 (Current Version):
+
+1). Converted the whole framework into python3
+2). Fixed all the previous bugs reported, works smoothly now!
+
+______________________________________________________________________________________________________________________
+
+
+Version ==> 6.0.1 (Current Version):
+
+1). There aren't any new features, in this version.
+2). Resolved `whois` exception (due to API key), replaced it with an alternate website! 
+
+______________________________________________________________________________________________________________________
+
+Version ==> 6.0.0(Old Version):
+
+1). Changed the Responce Code Of 200 for most sites(because of their redir. mechanism) in Admin Panel Finder Module
+2). Did The Same Above For Shell Finder Module!
+3). Changed Print Formatting For Exceptions Too!
+
+______________________________________________________________________________________________________________________
+
+Version ==> 5.0(Old Version):
+
+1). Changed The Whole Script Into Python (Took Much Time :P)
+2). Added New Features For Reverse IP (Via HackerTarget && YouGetSignal)
+3). Added New Features For Crawling (Via Google, Bing && Manually With My Hands ;)
+4). Removed NetCraft Module as We need to use selinium and phantomJS for it (Ultimately making script slow!)
+5). Added New Method For Subdomains Scanning! (Takes Some Time Though :p)
+6). Exceptions Covered for both User Interrupting && Internel Issues!
+
+______________________________________________________________________________________________________________________
+
+
+Version ==> 4.0(Removed):
+
+1). Fixed Some Major Issues.
+2). Fixed WhoIS Issue of Not Loading The WhoIS File.
+3). Merged All The Modules And Files Into Single File SiteBroker.php
+4). Fixed The Index Error in BannerGrab.
+5). Fixed Some Small Issues Of SiteSpeed Loading Checker.
+
+
+
+______________________________________________________________________________________________________________________
+
+Version ==> 3.0 (Removed):
+
+BugFixes:
+1). Fixed Crawler Opening And Finding.
+2). Fixed Some Grammer Mistakes.
+
+WhatsNew:
+Nothing Till Now :)
+
+______________________________________________________________________________________________________________________
+
+Version ==> 2.0 (Removed):
+
+BugFixes:
+1). Directory Listing Problem Solved.
+2). PHP Based Admin Panel Added.
+3). Google Based Crawler Added.
+
+Whats New:
+1). Google Based Crawler Which Crawls Websites By Using A Dork And Fetches Websites By Regular Expressions #Regex is <3 
+2). Banner Grabber Added Which Displays The Responses And Everything.
+3). Added Regular Expressions in Admin Panel Founder To Display Most Accurate Results.
+4). Also Added Regular Expressions in Shell Finder To Display Most Accurate Results.
+
+______________________________________________________________________________________________________________________
+
+Version ==> 1.0 (Removed):
+The Version Under Which It Was Made.
